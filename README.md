@@ -12,9 +12,9 @@
 
 Computer Science student passionate about frontend development. I enjoy building responsive websites, learning modern web technologies, and improving my skills through real-world projects.
 
-🔭 &nbsp;I'm currently working on **frontend web projects**  
-💬 &nbsp;Ask me about **HTML, CSS, JavaScript, Git, UI Design**  
-⚡ &nbsp;Fun fact: **Every project teaches me something new.**
+ &nbsp;I'm currently working on **frontend web projects**  
+ &nbsp;Ask me about **HTML, CSS, JavaScript, Git, UI Design**  
+ &nbsp;Fun fact: **Every project teaches me something new.**
 
 ### Tech Stack
 
@@ -52,4 +52,4 @@ Computer Science student passionate about frontend development. I enjoy building
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/36-wissam">36-wissam</a></i></p>
+<p align="center"><i><a href="https://github.com/36-wissam">36-wissam</a></i></p>
