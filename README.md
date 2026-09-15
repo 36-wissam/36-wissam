@@ -10,8 +10,7 @@
 
 ### About Me
 
-Computer Science student passionate about frontend development. I enjoy building responsive websites, learning modern web technologies, and improving my skills through real-world projects.
-
+Passionate about frontend development, with a focus on building responsive and engaging websites. I enjoy working with modern web technologies, exploring new ideas, and continuously improving my skills through real-world projects.
 
 ### Tech Stack
 
@@ -41,6 +40,3 @@ Computer Science student passionate about frontend development. I enjoy building
   <a href="https://wissam.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:me@wissam.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
-<p align="center"><i><a href="https://github.com/36-wissam">36-wissam</a></i></p>
