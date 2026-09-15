@@ -4,9 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=715&height=44&lines=full stack%20Developer%20%26%20Computer%20Science;Building%20modern%2C%20responsive%20web%20experiences." alt="Typing headlines" />
-</p>
 
 ### About Me
 
